@@ -1,0 +1,5 @@
+# HF dataset staging (uploaded to Hugging Face, not tracked in git)
+hf_dataset/
+
+__pycache__/
+.DS_Store
